@@ -37,7 +37,7 @@
   "dependencies": {
     "@tensorflow/tfjs-core": "0.14.2",
     "tfjs-image-recognition-base": "^0.4.1",
-    "tslib": "^1.9.3"
+    "tslib": "^1.14.1"
   },
   "devDependencies": {
     "@tensorflow/tfjs-node": "^0.2.3",
